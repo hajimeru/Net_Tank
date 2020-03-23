@@ -1,0 +1,9 @@
+C:\Users\ASUS\Desktop\Unity3D网络游戏实战\Chapter12\Serv\Serv\bin\Debug\Serv.exe.config
+C:\Users\ASUS\Desktop\Unity3D网络游戏实战\Chapter12\Serv\Serv\bin\Debug\Serv.exe
+C:\Users\ASUS\Desktop\Unity3D网络游戏实战\Chapter12\Serv\Serv\bin\Debug\Serv.pdb
+C:\Users\ASUS\Desktop\Unity3D网络游戏实战\Chapter12\Serv\Serv\bin\Debug\MySql.Data.dll
+C:\Users\ASUS\Desktop\Unity3D网络游戏实战\Chapter12\Serv\Serv\obj\x86\Debug\Serv.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Unity3D网络游戏实战\Chapter12\Serv\Serv\obj\x86\Debug\Serv.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Unity3D网络游戏实战\Chapter12\Serv\Serv\obj\x86\Debug\Serv.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Unity3D网络游戏实战\Chapter12\Serv\Serv\obj\x86\Debug\Serv.exe
+C:\Users\ASUS\Desktop\Unity3D网络游戏实战\Chapter12\Serv\Serv\obj\x86\Debug\Serv.pdb
